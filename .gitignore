@@ -1,1 +1,9 @@
+#neovim backup files
+*~
+
+#neovim persitent undo files
 *.un~
+
+#Neovim swap files
+*.swp
+*.swo
